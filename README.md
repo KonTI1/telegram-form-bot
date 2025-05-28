@@ -37,8 +37,8 @@ Telegram-бот для приёма заявок от пользователей
     pip install -r requirements.txt
 
 2. Создай файл .env:
-    BOT_TOKEN=твой_токен
-    ADMIN_ID=[123456789]
+   - BOT_TOKEN=твой_токен
+   - ADMIN_ID=[123456789]
    
 4. Добавить базу данных в папку bd
 
